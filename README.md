@@ -126,6 +126,6 @@ Navigate to `http://localhost:8081/`
 
 7.GitHub Actions
 
-8.AWS EC2
+8.AWS EC2_
 
 9.Nginx
